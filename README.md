@@ -1,2 +1,2 @@
 # myFirstDemo
-just a simple demp, primarily!
+just a simple repo, primarily!
